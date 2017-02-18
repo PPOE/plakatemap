@@ -13,61 +13,6 @@
       "Coords": "47.0668889,15.4310084"
     },
     {
-      "Anzahl Plakatständer": 2,
-      "Team": "B",
-      "Reihenfolge": "Erledigt",
-      "Standort": "TU Technikerstraße, bei Trafik",
-      "Pate": "Presidente",
-      "Standort Link": "https://goo.gl/maps/cZmdrpWEQ7H2",
-      "Um Baum oder Säule": "Nein",
-      "gespendet von": "",
-      "Coords": "47.069182,15.4505728"
-    },
-    {
-      "Anzahl Plakatständer": 3,
-      "Team": "B",
-      "Reihenfolge": "Erledigt",
-      "Standort": "Radweg Glacis, Kreuzung Zinzendorfgasse",
-      "Pate": "Katieschen",
-      "Standort Link": "https://goo.gl/maps/HFbeVvAgi2v",
-      "Um Baum oder Säule": "Ja",
-      "gespendet von": "",
-      "Coords": "47.075,15.4454806"
-    },
-    {
-      "Anzahl Plakatständer": 4,
-      "Team": "B",
-      "Reihenfolge": "Erledigt",
-      "Standort": "KFU Uni Zinzendorfgasse 29, Sonnenfelsplatz",
-      "Pate": "Presidente",
-      "Standort Link": "https://goo.gl/maps/cK2pgySa1k72",
-      "Um Baum oder Säule": "Ja",
-      "gespendet von": "",
-      "Coords": "47.076106,15.4495868"
-    },
-    {
-      "Anzahl Plakatständer": 5,
-      "Team": "B",
-      "Reihenfolge": "Erledigt",
-      "Standort": "KFU Uni Resowi Geidorfgürtel Höhe Johann Fux Gasse",
-      "Pate": "Presidente",
-      "Standort Link": "https://goo.gl/maps/RamCJBgWpE12",
-      "Um Baum oder Säule": "Nein",
-      "gespendet von": "",
-      "Coords": "47.078592,15.4509308"
-    },
-    {
-      "Anzahl Plakatständer": 6,
-      "Team": "B",
-      "Reihenfolge": "Erledigt",
-      "Standort": "KFU Uni Mensa",
-      "Pate": "Presidente",
-      "Standort Link": "https://goo.gl/maps/ceN9o8ciYBy",
-      "Um Baum oder Säule": "Nein",
-      "gespendet von": "",
-      "Coords": "47.076245,15.4500308"
-    },
-    {
       "Anzahl Plakatständer": 7,
       "Team": "B",
       "Reihenfolge": "Erledigt",
@@ -90,17 +35,6 @@
       "Coords": "47.0686441,15.4415459"
     },
     {
-      "Anzahl Plakatständer": 9,
-      "Team": "C",
-      "Reihenfolge": "Erledigt",
-      "Standort": "Jakominiplatz, Rondeau",
-      "Pate": "",
-      "Standort Link": "https://goo.gl/maps/D7jfq2JrsXw",
-      "Um Baum oder Säule": "Ja",
-      "gespendet von": "",
-      "Coords": "47.067354,15.4419128"
-    },
-    {
       "Anzahl Plakatständer": 10,
       "Team": "C",
       "Reihenfolge": "Erledigt",
@@ -110,61 +44,6 @@
       "Um Baum oder Säule": "Nein",
       "gespendet von": "",
       "Coords": "47.067493,15.4431928"
-    },
-    {
-      "Anzahl Plakatständer": 11,
-      "Team": "C",
-      "Reihenfolge": "Erledigt",
-      "Standort": "Jakominiplatz, Kapadokya",
-      "Pate": "",
-      "Standort Link": "https://goo.gl/maps/8bSFrDtSDJx",
-      "Um Baum oder Säule": "Nein",
-      "gespendet von": "",
-      "Coords": "47.067209,15.4424998"
-    },
-    {
-      "Anzahl Plakatständer": 12,
-      "Team": "C",
-      "Reihenfolge": 6,
-      "Standort": "Kunsthaus/Südtirolerplatz",
-      "Pate": "",
-      "Standort Link": "https://goo.gl/maps/8hvQ88rHcBE2",
-      "Um Baum oder Säule": "Nein",
-      "gespendet von": "",
-      "Coords": "47.070971,15.4330848"
-    },
-    {
-      "Anzahl Plakatständer": 13,
-      "Team": "A",
-      "Reihenfolge": "Erledigt",
-      "Standort": "FH (beim Baum) Eggenbergerstr. 53",
-      "Pate": "",
-      "Standort Link": "https://goo.gl/maps/y8BTifv6ws22",
-      "Um Baum oder Säule": "Ja",
-      "gespendet von": "",
-      "Coords": "47.069971,15.4090828"
-    },
-    {
-      "Anzahl Plakatständer": 14,
-      "Team": "A",
-      "Reihenfolge": "Erledigt",
-      "Standort": "FH (beim Baum) Eggenberger Alle 113",
-      "Pate": "",
-      "Standort Link": "https://goo.gl/maps/HDDhojjtiEm",
-      "Um Baum oder Säule": "Ja",
-      "gespendet von": "Fisima",
-      "Coords": "47.069999,15.4060008"
-    },
-    {
-      "Anzahl Plakatständer": 15,
-      "Team": "A",
-      "Reihenfolge": "Erledigt",
-      "Standort": "FH Alte Post 152",
-      "Pate": "",
-      "Standort Link": "https://goo.gl/maps/BTzFKmomPhr",
-      "Um Baum oder Säule": "Nein",
-      "gespendet von": "",
-      "Coords": "47.069059,15.4089258"
     },
     {
       "Anzahl Plakatständer": 16,
@@ -189,17 +68,6 @@
       "Coords": "47.067601,15.4369518"
     },
     {
-      "Anzahl Plakatständer": 18,
-      "Team": "A",
-      "Reihenfolge": "",
-      "Standort": "Moserhofgasse (Spar)",
-      "Pate": "",
-      "Standort Link": "https://goo.gl/maps/Szum6cKdTjJ2",
-      "Um Baum oder Säule": "Nein",
-      "gespendet von": "Dr. phil Gerald Kainz",
-      "Coords": "47.060072,15.4540338"
-    },
-    {
       "Anzahl Plakatständer": 19,
       "Team": "A",
       "Reihenfolge": "Erledigt",
@@ -209,17 +77,6 @@
       "Um Baum oder Säule": "Nein",
       "gespendet von": "",
       "Coords": "47.067639,15.4214378"
-    },
-    {
-      "Anzahl Plakatständer": 20,
-      "Team": "C",
-      "Reihenfolge": "Erledigt",
-      "Standort": "Polizeistation Schmiedgasse 26",
-      "Pate": "",
-      "Standort Link": "https://goo.gl/maps/BKcSuzWJq9M2",
-      "Um Baum oder Säule": "",
-      "gespendet von": "",
-      "Coords": "47.0685439,15.4388845"
     },
     {
       "Anzahl Plakatständer": 21,
@@ -280,67 +137,12 @@
       "Anzahl Plakatständer": 26,
       "Team": "B",
       "Reihenfolge": "Erledigt",
-      "Standort": "Leonhardstr.Musikuni",
+      "Standort": "Leonhardstr.Musikuni (Reiterkaserne)",
       "Pate": "Fisima",
       "Standort Link": "https://goo.gl/maps/1xia6XwrAQx",
       "Um Baum oder Säule": "Nein",
       "gespendet von": "",
       "Coords": "47.075478,15.4586061"
-    },
-    {
-      "Anzahl Plakatständer": 27,
-      "Team": "B",
-      "Reihenfolge": "Erledigt",
-      "Standort": "Leonhardstr. Kunstuni",
-      "Pate": "Fisima",
-      "Standort Link": "https://goo.gl/maps/gewpivKS75N2",
-      "Um Baum oder Säule": "Nein",
-      "gespendet von": "",
-      "Coords": "47.072166,15.4497218"
-    },
-    {
-      "Anzahl Plakatständer": 28,
-      "Team": "B",
-      "Reihenfolge": "Erledigt",
-      "Standort": "Endstation Andritz",
-      "Pate": "",
-      "Standort Link": "https://goo.gl/maps/e38dp7oRA9y",
-      "Um Baum oder Säule": "Ja",
-      "gespendet von": "",
-      "Coords": "47.1031399,15.4213865"
-    },
-    {
-      "Anzahl Plakatständer": 29,
-      "Team": "A",
-      "Reihenfolge": "Erledigt",
-      "Standort": "Endstation Wetzelsdorf",
-      "Pate": "",
-      "Standort Link": "https://goo.gl/maps/hdhs8Fk2LXz",
-      "Um Baum oder Säule": "Ja",
-      "gespendet von": "",
-      "Coords": "47.0606729,15.3921245"
-    },
-    {
-      "Anzahl Plakatständer": 30,
-      "Team": "A",
-      "Reihenfolge": "",
-      "Standort": "Endstation Liebenau/Murpark !!!!",
-      "Pate": "",
-      "Standort Link": "https://goo.gl/maps/5wEqgMxiZ1G2",
-      "Um Baum oder Säule": "Ja",
-      "gespendet von": "",
-      "Coords": "47.0407349,15.4634525"
-    },
-    {
-      "Anzahl Plakatständer": 31,
-      "Team": "A",
-      "Reihenfolge": "",
-      "Standort": "Endstation Puntigam",
-      "Pate": "",
-      "Standort Link": "https://goo.gl/maps/SZdqifDJojp",
-      "Um Baum oder Säule": "Ja",
-      "gespendet von": "",
-      "Coords": "47.0303409,15.4280735"
     },
     {
       "Anzahl Plakatständer": 32,
@@ -354,61 +156,6 @@
       "Coords": "47.075081,15.4302458"
     },
     {
-      "Anzahl Plakatständer": 33,
-      "Team": "A",
-      "Reihenfolge": 9,
-      "Standort": "LKH-West UKH Endhaltestelle",
-      "Pate": "",
-      "Standort Link": "https://goo.gl/maps/gEGnk8TrBeD2",
-      "Um Baum oder Säule": "Ja",
-      "gespendet von": "",
-      "Coords": "47.07901,15.3961818"
-    },
-    {
-      "Anzahl Plakatständer": 34,
-      "Team": "A",
-      "Reihenfolge": 8,
-      "Standort": "Bim Haltestelle Schloss Eggenberg",
-      "Pate": "Presidente",
-      "Standort Link": "https://goo.gl/maps/txWozYSfjTp",
-      "Um Baum oder Säule": "Ja",
-      "gespendet von": "",
-      "Coords": "47.074972,15.3964373"
-    },
-    {
-      "Anzahl Plakatständer": 35,
-      "Team": "A",
-      "Reihenfolge": "",
-      "Standort": "Schulzentrum St. Peter, Innfeld",
-      "Pate": "",
-      "Standort Link": "https://goo.gl/maps/VgwAQegriLz",
-      "Um Baum oder Säule": "Nein",
-      "gespendet von": "",
-      "Coords": "47.060265,15.4634878"
-    },
-    {
-      "Anzahl Plakatständer": 36,
-      "Team": "A",
-      "Reihenfolge": "",
-      "Standort": "Innfeldgasse Ecke Petersgasse",
-      "Pate": "",
-      "Standort Link": "https://goo.gl/maps/QamhwcXAuHs",
-      "Um Baum oder Säule": "Ja",
-      "gespendet von": "",
-      "Coords": "47.060034,15.4635358"
-    },
-    {
-      "Anzahl Plakatständer": 37,
-      "Team": "B",
-      "Reihenfolge": "Erledigt",
-      "Standort": "Liebiggasse Ecke Heinrichstrasse (Growshop)",
-      "Pate": "",
-      "Standort Link": "https://goo.gl/maps/nvy2FpgbQvF2",
-      "Um Baum oder Säule": "Nein",
-      "gespendet von": "",
-      "Coords": "47.080326,15.4502738"
-    },
-    {
       "Anzahl Plakatständer": 38,
       "Team": "B",
       "Reihenfolge": "Erledigt",
@@ -418,17 +165,6 @@
       "Um Baum oder Säule": "Ja",
       "gespendet von": "Katieschen",
       "Coords": "47.083553,15.4515018"
-    },
-    {
-      "Anzahl Plakatständer": 39,
-      "Team": "A",
-      "Reihenfolge": "",
-      "Standort": "Radweg Ampel Meran/Morellenfeldgasse",
-      "Pate": "Winston",
-      "Standort Link": "https://goo.gl/maps/44tMqJLf8962",
-      "Um Baum oder Säule": "Nein",
-      "gespendet von": "",
-      "Coords": "47.071729,15.4562848"
     },
     {
       "Anzahl Plakatständer": 40,
